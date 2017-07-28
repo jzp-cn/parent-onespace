@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="onespace-manager-dao" />
+        <module name="onespace-manager-service" />
+        <module name="onespace-manager-service/dao" />
+        <module name="onespace-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="onespace-commons" target="1.5" />
+      <module name="onespace-manager" target="1.5" />
+      <module name="onespace-manager-dao" target="1.5" />
+      <module name="onespace-manager-service" target="1.5" />
+      <module name="onespace-manager-service/dao" target="1.5" />
+      <module name="onespace-manager-web" target="1.5" />
+      <module name="parent-onespace" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

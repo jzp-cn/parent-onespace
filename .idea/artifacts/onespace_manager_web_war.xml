@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="onespace-manager-web:war">
+    <output-path>$PROJECT_DIR$/onespace-manager/onespace-manager-web/target</output-path>
+    <root id="archive" name="onespace-manager-web.war">
+      <element id="artifact" artifact-name="onespace-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>

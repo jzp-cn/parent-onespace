@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onespace-manager/onespace-manager.iml" filepath="$PROJECT_DIR$/onespace-manager/onespace-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onespace-manager/onespace-manager-dao/onespace-manager-dao.iml" filepath="$PROJECT_DIR$/onespace-manager/onespace-manager-dao/onespace-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onespace-manager/onespace-manager-service/onespace-manager-service.iml" filepath="$PROJECT_DIR$/onespace-manager/onespace-manager-service/onespace-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onespace-manager/onespace-manager-web/onespace-manager-web.iml" filepath="$PROJECT_DIR$/onespace-manager/onespace-manager-web/onespace-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-onespace.iml" filepath="$PROJECT_DIR$/parent-onespace.iml" />
+    </modules>
+  </component>
+</project>
